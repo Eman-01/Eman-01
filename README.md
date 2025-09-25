@@ -78,7 +78,7 @@
 ## 📫 How to Reach Me
 
 - GitHub: [@Eman-01](https://github.com/Eman-01)   
-- LinkedIn: [(https://www.linkedin.com/in/emmanuel-o-3543402b8/)]
+- LinkedIn: (https://www.linkedin.com/in/emmanuel-o-3543402b8/)
 
 ---
 
