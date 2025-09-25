@@ -43,7 +43,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🎟️ Event Ticketing System
 - A **serverless event management platform** built with AWS (Lambda, API Gateway, DynamoDB, SES, S3)  
@@ -60,7 +60,7 @@
 - Supports user authentication, property listings, and rental payments  
 - Designed for scalability and real-world business workflows  
 
-### ☁️ AWS CI/CD Workshop Project
+### ☁️ AWS CI/CD Project
 - Implemented a **Blue/Green deployment pipeline** on AWS  
 - Used **CodeBuild** to compile code, **ECR** for container images, and **CodeDeploy** with ECS for deployment  
 - Application served via **ALB endpoint**, with auto-scaling for steady state  
@@ -71,23 +71,14 @@
 
 ![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eman-01&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eman-01&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eman-01&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eman-01&layout=compact&theme=tokyonight)   
 
 ---
 
 ## 📫 How to Reach Me
 
 - GitHub: [@Eman-01](https://github.com/Eman-01)   
-- LinkedIn: [your-linkedin-here  ](https://www.linkedin.com/in/emmanuel-o-3543402b8/)
-
----
-
-## ⚖️ License
-
-This repo is open source. Use, modify, or adapt as you wish.  
-(You can specify a proper license like MIT, Apache 2.0, etc.)
+- LinkedIn: [(https://www.linkedin.com/in/emmanuel-o-3543402b8/)]
 
 ---
 
